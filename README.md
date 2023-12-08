@@ -14,6 +14,18 @@
 - [**React**](https://react.dev/)
 - [**Vite**](https://pt.vitejs.dev/guide/)
 
+### ⚙️ Como instalar o projeto em minha máquina ?
+- Clone e acesse a pasta do projeto:
+```bash
+$ git clone https://github.com/LucasBrito794/Secret_Word.git
+$ cd Secret_Word
+```
+- Instale as dependências e rode o projeto:
+```bash
+$ npm i
+$ npm run dev
+```
+
 ### 🎯 Imagens do Projeto
 ![start](https://github.com/LucasBrito794/Secret_Word/assets/78000311/11e7b35c-27bf-4054-ab0f-6e344465cafa)
 <hr>
